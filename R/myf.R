@@ -4,7 +4,7 @@
 #'
 #' @param x
 #'
-#' @return a vector of square components
+#' @return a vector of square components in the form of a vector object
 #' @export
 #'
 #' @examples
